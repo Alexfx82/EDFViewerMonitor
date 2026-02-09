@@ -1,0 +1,7 @@
+{
+  "geometry": "895x713+640+360",
+  "sash_position": 693,
+  "show_rc_logs": true,
+  "show_i2c_logs": true,
+  "motor_mode": "ID1 (1 \u043c\u043e\u0442\u043e\u0440)"
+}
